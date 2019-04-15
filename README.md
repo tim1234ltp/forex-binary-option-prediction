@@ -5,4 +5,4 @@ Data is from `https://www.histdata.com/download-free-forex-data/?/ascii/1-minute
 
 ## Results
 SVM and GBC performed horribly while (not well tuned) LSTM looks promising (0.5017174381379991 accuracy):
-![plot](result_lstm.png)
+![plot](lstm_result.png)
